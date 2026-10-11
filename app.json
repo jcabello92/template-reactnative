@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "reactnative",
-    "slug": "reactnative",
+    "name": "template-reactnative",
+    "slug": "template-reactnative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reactnative",
+    "scheme": "template-reactnative",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
